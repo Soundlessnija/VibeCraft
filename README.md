@@ -35,20 +35,4 @@ Issues from modified installations may be harder to reproduce.
 
 Feature suggestions and compatibility requests are welcome, but the goal of VibeCraft+ is to maintain a cohesive vanilla+ experience rather than add every available feature or mod.
 
-## About VibeCraft+
 
-VibeCraft+ expands Minecraft with richer terrain, changing seasons, improved wildlife, deeper farming and animal care, structures, atmospheric effects, and quality-of-life improvements while keeping the experience recognizable as Minecraft.
-
-The pack is designed around slower-paced exploration, building, farming, and immersive gameplay without heavy tech or magic progression.
-
-## Credits
-
-VibeCraft+ was originally inspired by and built using many of the optimization principles and mods featured in [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized).
-
-Huge thanks to the Fabulously Optimized team and to every mod, resource pack, shader, and library developer whose work makes VibeCraft+ possible.
-
-## Disclaimer
-
-VibeCraft+ is an independent community modpack and is not affiliated with Mojang Studios or Microsoft.
-
-Minecraft is a trademark of Microsoft Corporation.
